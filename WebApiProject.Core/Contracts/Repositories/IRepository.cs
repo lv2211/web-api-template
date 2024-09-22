@@ -13,11 +13,11 @@ public interface IRepository<T> where T : class, new()
     /// <summary>
     /// Retrieves an entity of type T by its unique identifier.
     /// </summary>
-    /// <param name="id">The unique identifier of the entity.</param>
+    /// <param name="keyValues">The values that uniquely identify the entity.</param>
     /// <return>
     /// A task that represents the asynchronous operation. The task result contains the entity if found, otherwise null.
     /// </return>
-    Task<T?> GetByIdAsync(object id);
+    Task<T?> FindAsync(params object?[]? keyValues);
 
     /// <summary>
     /// Adds an entity of type T to the repository.

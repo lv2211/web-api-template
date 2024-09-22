@@ -9,7 +9,7 @@ public class Repository<T> : IRepository<T> where T: class, new()
         throw new NotImplementedException();
     }
 
-    public async Task<T?> GetByIdAsync(object id)
+    public async Task<T?> FindAsync(params object?[]? keyValues)
     {
         throw new NotImplementedException();
     }
