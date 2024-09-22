@@ -1,0 +1,12 @@
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\bin\Debug\net8.0\WebApiProject.Core.deps.json
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\bin\Debug\net8.0\WebApiProject.Core.dll
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\bin\Debug\net8.0\WebApiProject.Core.pdb
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\WebApiProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\WebApiProject.Core.AssemblyInfoInputs.cache
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\WebApiProject.Core.AssemblyInfo.cs
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\WebApiProject.Core.csproj.CoreCompileInputs.cache
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\WebApiProject.Core.sourcelink.json
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\WebApiProject.Core.dll
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\refint\WebApiProject.Core.dll
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\WebApiProject.Core.pdb
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Core\obj\Debug\net8.0\ref\WebApiProject.Core.dll

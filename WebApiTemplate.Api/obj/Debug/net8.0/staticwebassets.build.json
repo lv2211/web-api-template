@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TiG22ymotdIlCFqkNotbIAQL6DUp7toMN/1SMn2d3Lo=",
+  "Source": "WebApiTemplate.Api",
+  "BasePath": "_content/WebApiTemplate.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

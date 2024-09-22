@@ -1,0 +1,16 @@
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\bin\Debug\net8.0\WebApiProject.Infrastructure.deps.json
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\bin\Debug\net8.0\WebApiProject.Infrastructure.dll
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\bin\Debug\net8.0\WebApiProject.Infrastructure.pdb
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\bin\Debug\net8.0\WebApiProject.Core.dll
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\bin\Debug\net8.0\WebApiProject.Core.pdb
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiProject.Infrastructure.csproj.AssemblyReference.cache
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiProject.Infrastructure.AssemblyInfoInputs.cache
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiProject.Infrastructure.AssemblyInfo.cs
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiProject.Infrastructure.sourcelink.json
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiPr.748E472E.Up2Date
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiProject.Infrastructure.dll
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\refint\WebApiProject.Infrastructure.dll
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\WebApiProject.Infrastructure.pdb
+D:\FPT Uni\PRN231\code\web-api-template\WebApiProject.Infrastructure\obj\Debug\net8.0\ref\WebApiProject.Infrastructure.dll
