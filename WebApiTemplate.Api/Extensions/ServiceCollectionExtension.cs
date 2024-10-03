@@ -20,7 +20,7 @@ public static class ServiceCollectionExtension
 
     private static IServiceCollection AddApplicationServices(this IServiceCollection services)
     {
-        
+        services.AddTransient(typeof(GlobalExceptionHandlingMiddleware));
         return services;
     }
 }
